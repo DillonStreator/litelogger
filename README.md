@@ -16,7 +16,7 @@ logger.error('Error has occurred');
 
 //outputs...
 ```
-![Basic Output](/images/output-basic.PNG "output-basic")
+![Basic Output](https://github.com/DillonStreator/litelogger/blob/assets/images/output-basic.PNG "output-basic")
 
 
 # Config (optional)
@@ -44,7 +44,7 @@ prefixedLogger.info('information with a prefix');
 
 // outputs...
 ```
-![Prefixed Output](/images/output-prefixed.PNG "output-prefixed")
+![Prefixed Output](https://github.com/DillonStreator/litelogger/blob/assets/images/output-prefixed.PNG "output-prefixed")
 ___
 ### suppressTrace
 ```Javascript
@@ -58,7 +58,7 @@ nonSuppressedLogger.error(error);
 
 // outputs...
 ```
-![Supressed Output](/images/output-suppression.PNG "output-suppression")
+![Supressed Output](https://github.com/DillonStreator/litelogger/blob/assets/images/output-suppression.PNG "output-suppression")
 ___
 ### pretty printing
 ```Javascript
@@ -72,6 +72,6 @@ logger.debug(
 
 // outputs...
 ```
-![Object Output](/images/output-objects.PNG "output-objects")
+![Object Output](https://github.com/DillonStreator/litelogger/blob/assets/images/output-objects.PNG "output-objects")
 
 
