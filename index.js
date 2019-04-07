@@ -2,7 +2,6 @@ const defaultOpts = {
     prefix: null,
     suppressTrace: false
 };
-process.env.DEBUG=true;
 module.exports = (opts=defaultOpts) => {
     const bright = "\x1b[1m";
     const reset = "\x1b[0m";
