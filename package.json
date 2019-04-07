@@ -1,0 +1,16 @@
+{
+  "name": "@dillonstreator/litelogger",
+  "version": "1.0.0",
+  "description": "0 dependency, super lightweight logging utility providing log levels, colors, and formatted JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dillon Streator",
+  "license": "ISC",
+  "keywords": [
+    "logging", "logger",
+    "utility",
+    "lite", "little", "light"
+  ]
+}
